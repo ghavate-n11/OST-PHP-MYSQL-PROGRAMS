@@ -11,7 +11,7 @@
 <body>
     <?php
     
-    echo ("Student Name: Mr. NILESH BHAUSAHEB GHAVATE");
+    echo ("Student Name: Mr. NILESH BHAUSAHEB GHAVATE[N.B.G.]");
       ?>
 </body>
 </html>
